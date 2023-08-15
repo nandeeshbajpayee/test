@@ -1,0 +1,5 @@
+{{#user}
+Name: Nandeesh Bajpayee
+Skills: HTML, CSS, JS, Next.js , react.js
+Email: nandeeshjq@gmail.com
+{{/user}}
